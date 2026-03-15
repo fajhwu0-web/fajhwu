@@ -27,7 +27,7 @@ Amir – Web Developer
 https://fajhwu0-web.github.io/midas-restaurant/
 
 Код:
-fajhwu0-web / midas-restaurant
+https://github.com/fajhwu0-web/midas-restaurant
 
 ---
 
