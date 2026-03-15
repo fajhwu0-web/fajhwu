@@ -48,7 +48,7 @@ fajhwu0-web / neuron-ai-chat
 https://fajhwu0-web.github.io/Tariff-landing/
 
 Код:
-fajhwu0-web/Tariff-landing
+https://github.com/fajhwu0-web/Tariff-landing
 
 ---
 
