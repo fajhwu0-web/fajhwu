@@ -24,10 +24,10 @@ Amir – Web Developer
 Сайт ресторана с адаптивной версткой и интерактивным меню.
 
 Сайт:
-https://fajhwo0-web.github.io/midas-restaurant
+https://fajhwu0-web.github.io/midas-restaurant/
 
 Код:
-https://github.com/fajhwo0-web/midas-restaurant
+fajhwu0-web / midas-restaurant
 
 ---
 
@@ -36,7 +36,7 @@ https://github.com/fajhwo0-web/midas-restaurant
 Простое AI-приложение для чата на Python и Flask.
 
 Код:
-https://github.com/fajhwo0-web/neuron-ai-chat
+fajhwu0-web / neuron-ai-chat
 
 ---
 
@@ -45,10 +45,10 @@ https://github.com/fajhwo0-web/neuron-ai-chat
 Лендинг с тарифными планами.
 
 Сайт:
-https://fajhwo0-web.github.io/tariff-landing
+https://fajhwu0-web.github.io/Tariff-landing/
 
 Код:
-https://github.com/fajhwo0-web/tariff-landing
+fajhwu0-web/Tariff-landing
 
 ---
 
@@ -57,10 +57,10 @@ https://github.com/fajhwo0-web/tariff-landing
 Простое приложение-счетчик на JavaScript.
 
 Сайт:
-https://fajhwo0-web.github.io/js-counter
+https://fajhwu0-web.github.io/js-counter/
 
 Код:
-https://github.com/fajhwo0-web/js-counter
+fajhwu0-web / js-counter
 
 ---
 
