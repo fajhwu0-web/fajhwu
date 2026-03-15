@@ -60,7 +60,7 @@ https://github.com/fajhwu0-web/Tariff-landing
 https://fajhwu0-web.github.io/js-counter/
 
 Код:
-fajhwu0-web / js-counter
+https://github.com/fajhwu0-web/js-counter
 
 ---
 
