@@ -36,7 +36,7 @@ https://github.com/fajhwu0-web/midas-restaurant
 Простое AI-приложение для чата на Python и Flask.
 
 Код:
-fajhwu0-web / neuron-ai-chat
+https://github.com/fajhwu0-web/neuron-ai-chat
 
 ---
 
